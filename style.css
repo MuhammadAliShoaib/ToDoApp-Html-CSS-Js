@@ -1,0 +1,20 @@
+#mainList li{
+    width: 50vw;
+    list-style: none;
+    border: 1px solid black;
+    height: 32px;
+    margin-top: 20px;
+}
+#mainList li button{
+    margin-left: 50px;
+    float: right;
+}
+
+
+.deleteBtn{
+    background-color: red;
+}
+
+.editBtn{
+    background-color: green;
+}
